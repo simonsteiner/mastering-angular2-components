@@ -21,7 +21,7 @@ My personal code repo for the project of the [eBook Mastering Angular 2 Componen
 ```
  - `jspm install jquery`
  - create main.js
- ```javascript
+```javascript
 import $ from 'jquery';
 class HelloWorld {
  constructor() {
