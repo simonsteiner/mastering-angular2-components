@@ -1,5 +1,5 @@
 # Mastering Angular 2 Components
-My personal code repo for the project of the eBook: ["Mastering Angular 2 Components"](https://www.packtpub.com/web-development/mastering-angular-2-components) from [Gion Kunz](https://github.com/gionkunz)
+My personal code repo for the project of the eBook: ["Mastering Angular 2 Components"](https://www.packtpub.com/web-development/mastering-angular-2-components) from [Gion Kunz](https://github.com/gionkunz), ([his repo](https://github.com/gionkunz/angular-2-components))
 
 # Coding Steps
 
@@ -40,3 +40,7 @@ const helloWorld = new HelloWorld();
  * [JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  * Mozilla Developer Network [export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export), [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import), [Template literals (strings enclosed with back-tick (``` ```))](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
  * Design Patters by Erich Gamma (Gang of four [GoF]), [Wiki](https://en.wikipedia.org/wiki/Design_Patterns), [PDF](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf), [c2 wiki](http://c2.com/cgi/wiki?GangOfFour)
+
+## Chapter 2
+ * zones.js: [Brian Ford - Zones - NG-Conf 2014](https://youtu.be/3IqtmUscE_U), [GitHub](https://github.com/angular/zone.js)
+ 
