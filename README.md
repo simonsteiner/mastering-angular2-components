@@ -1,5 +1,5 @@
 # Mastering Angular 2 Components
-My personal code repo for the project of the eBook: ["Mastering Angular 2 Components" from Gion Kunz](https://www.packtpub.com/web-development/mastering-angular-2-components)
+My personal code repo for the project of the eBook: ["Mastering Angular 2 Components"](https://www.packtpub.com/web-development/mastering-angular-2-components) from [Gion Kunz](https://github.com/gionkunz)
 
 # Coding Steps
 
